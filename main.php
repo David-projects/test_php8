@@ -5,8 +5,6 @@ include "./User.php";
 include "./Validator.php";
 include "./testData.php";
 
-//use Users\Users as users;
-//use Users\User as user;
 use Users\Users;
 use Users\User;
 use Validators\Validator;
